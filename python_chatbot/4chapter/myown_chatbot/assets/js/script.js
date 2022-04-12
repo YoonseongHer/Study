@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-	var baseUrl = "http://58.181.51.162:5004/webhooks/rasa/webhook?token=secret";
+	var baseUrl = "https://horoscopebot1212.herokuapp.com/webhooks/rasa/webhook?token=secret";
 
 	//---------------------------------- Add dynamic html bot content(Widget style) ----------------------------
 	// You can also add the html content in html page and still it will work!
