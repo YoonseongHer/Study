@@ -1,0 +1,43 @@
+slots:
+
+    tg_num:
+        type: text
+        
+intents:
+    
+    - greet
+    - lipid_info
+    - lipid_diet
+    - lipid_diagnosis
+    - lipid_excercise
+    - tg_intent
+    
+entities:
+
+    - tg_num
+    
+templates:
+    
+    utter_greet:
+        - '안녕하세요. 이상지질혈증 봇입니다.'
+        
+    utter_ask_tg_num:
+        - '중성지방 수치가 얼마인가요?'
+    
+    utter_diet:
+        - '식단에 대한 내용'
+    
+    utter_exercise:
+        - '운동에 대한 내용'
+        
+    utter_info:
+        - '이상지질혈증에 대한 정보'
+        
+actions:
+
+    - utter_greet
+    - utter_ask_tg_num
+    - utter_diet
+    - utter_exercise
+    - utter_info
+    - get_diagnosis

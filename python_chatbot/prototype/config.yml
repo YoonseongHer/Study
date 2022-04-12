@@ -1,0 +1,2 @@
+language: "xx"
+pipeline: "tensorflow_embedding"

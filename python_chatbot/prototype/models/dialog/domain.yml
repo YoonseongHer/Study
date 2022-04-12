@@ -1,0 +1,41 @@
+%YAML 1.1
+---
+actions:
+- utter_greet
+- utter_ask_tg_num
+- utter_diet
+- utter_exercise
+- utter_info
+- get_diagnosis
+config:
+  store_entities_as_slots: true
+entities:
+- tg_num
+intents:
+- greet:
+    use_entities: true
+- lipid_info:
+    use_entities: true
+- lipid_diet:
+    use_entities: true
+- lipid_diagnosis:
+    use_entities: true
+- lipid_excercise:
+    use_entities: true
+- tg_intent:
+    use_entities: true
+slots:
+  tg_num:
+    initial_value: null
+    type: rasa_core.slots.TextSlot
+templates:
+  utter_ask_tg_num:
+  - text: 중성지방 수치가 얼마인가요?
+  utter_diet:
+  - text: 식단에 대한 내용
+  utter_exercise:
+  - text: 운동에 대한 내용
+  utter_greet:
+  - text: 안녕하세요. 이상지질혈증 봇입니다.
+  utter_info:
+  - text: 이상지질혈증에 대한 정보

@@ -24,7 +24,7 @@ entities:
     - horoscope_sign
     - DD
     - MM
-    - sunscribe
+    - subscribe
     - dob_intent
     
 templates:

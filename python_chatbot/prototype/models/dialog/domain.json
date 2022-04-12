@@ -1,0 +1,21 @@
+{
+  "states": [
+    "intent_greet",
+    "intent_lipid_diagnosis",
+    "intent_lipid_diet",
+    "intent_lipid_excercise",
+    "intent_lipid_info",
+    "intent_tg_intent",
+    "entity_tg_num",
+    "slot_tg_num_0",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_action_default_fallback",
+    "prev_utter_greet",
+    "prev_utter_ask_tg_num",
+    "prev_utter_diet",
+    "prev_utter_exercise",
+    "prev_utter_info",
+    "prev_get_diagnosis"
+  ]
+}

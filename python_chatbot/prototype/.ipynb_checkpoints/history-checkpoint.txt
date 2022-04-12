@@ -1,0 +1,1000 @@
+ 1095  git config user.name
+ 1096  git config user.name ysher
+ 1097  git init
+ 1098  git config user.name ysher
+ 1099  git config user.mail ysher@aimmed.com
+ 1100  git config --list
+ 1101  git branch -a
+ 1102  git clone https://yoonseongH@bitbucket.org/aim_jwhan/kospeach_test.git
+ 1103  git clone git@bitbucket.org:aim_jwhan/kospeach_test.git
+ 1104  git clone https://yoonseongH@bitbucket.org/aim_jwhan/kospeach_test.git
+ 1105  ll
+ 1106  cd kospeach_test/
+ 1107  ll
+ 1108  git config -a
+ 1109  git branch -a
+ 1110  git branch dev_ysher
+ 1111  git checkout dev_ysher
+ 1112  git branch -a
+ 1113  git branch --set-upstream-to origin/dev_ysher
+ 1114  git push origin dev_ysher
+ 1115  git branch -a
+ 1116  git branch --set-upstream-to origin/dev_ysher
+ 1117  git branch -a
+ 1118  git commit -m 'ysher_test'
+ 1119  git config
+ 1120  git config --list
+ 1121  git config user.name ysher
+ 1122  cd ..
+ 1123  git config --list
+ 1124  git commit -m 'ysher_test'
+ 1125  git config user.email ysher@aimmed.com
+ 1126  git commit -m 'ysher_test'
+ 1127  git push ysher dev_ysher
+ 1128  git push dev_ysher dev_ysher
+ 1129  git push dev_ysher
+ 1130  git push --set-upstraeam dev_ysher master
+ 1131  git push --set-upstream dev_ysher master
+ 1132  git push --set-upstream dev_ysher dev_ysher
+ 1133  git push --set-upstream dev_yshe
+ 1134  git push --set-upstream dev_ysher
+ 1135  git push --set-upstream dev_ysher main
+ 1136  git push --set-upstream dev_ysher master
+ 1137  git push dev_ysher dev_ysher
+ 1138  git push dev_ysher master
+ 1139  git push remote/origin/dev_ysher master
+ 1140  git push mian  master
+ 1141  git push main  master
+ 1142  git push
+ 1143  git remote add dev_ysher
+ 1144  git remote
+ 1145  cd kospeach_test/
+ 1146  git remote
+ 1147  git push dev_ysher dev_ysher
+ 1148  git remote add dev_ysher
+ 1149  git remote -v
+ 1150  git remote add dev_ysher https://yoonseongH@bitbucket.org/aim_jwhan/kospeach_test.git
+ 1151  git remote
+ 1152  git push dev_ysher dev_ysher
+ 1153  git add *
+ 1154  git status
+ 1155  git commit -m 'ysher_test'
+ 1156  cd ..
+ 1157  git commit -m 'ysher_test'
+ 1158  git add *
+ 1159  cd kospeach_test/
+ 1160  git commit -m 'ysher_test'
+ 1161  git config user.name ysher
+ 1162  git config user.email ysher@aimmed.com
+ 1163  git commit -m 'ysher_test'
+ 1164  git push dev_ysher dev_ysher
+ 1165  history --help
+ 1166  history
+ 1167  git branch --list
+ 1168  cd ..
+ 1169  git branch list
+ 1170  git branch --list
+ 1171  git branch -a
+ 1172  cd kospeach_test/
+ 1173  git branch -a
+ 1174  git status
+ 1175  git add kospeech.ipynb 
+ 1176  git status
+ 1177  git commit -m 'ysher_test2'
+ 1178  git push origin dev_ysher
+ 1179  cd ..
+ 1180  git clone https://yoonseongH@bitbucket.org/yoonseongH/stt.git
+ 1181  ls
+ 1182  cd stt
+ 1183  git config --liat
+ 1184  git config --list
+ 1185  git user.name ysher
+ 1186  git config user.name ysher
+ 1187  git config user.email ysher@aimmed.com
+ 1188  git branch dev_ysher
+ 1189  git checkout dev_ysher
+ 1190  git push origin dev_ysher
+ 1191  git add *
+ 1192  git status
+ 1193  git commit -m 'ysher_projet_test'
+ 1194  git push origin dev_ysher
+ 1195  history
+ 1196  pwd
+ 1197  cd ../..
+ 1198  pwd
+ 1199  ls
+ 1200  cd ~/Share/d/py_script/opinion_classification_project_v1
+ 1201  python3 main.py --start_exam_date 20200000 --exam_date 20210000 --use_gpu
+ 1202  python3 main.py --start_exam_date 20200000 --end_exam_date 20210000 --use_gpu
+ 1203  adfadadfadf
+ 1204  cleat
+ 1205  clear
+ 1206  nvidia-smi
+ 1207  cd ~
+ 1208  cd Storage/ysher_nlp_study/Dacon/text_summary/
+ 1209  unzip open.zip 
+ 1210  nvidia-smi
+ 1211  kill -9 52100
+ 1212  nvidia-smi
+ 1213  cd ~/Storage/chatbot/STT/kospeech/dataset/kspon/한국어\ 음성/
+ 1214  cd 한국어_음성_분야/
+ 1215  unzip Ks*
+ 1216  unzip KsponSpeech_0*.*
+ 1217  unzip KsponSpeech_01.zip
+ 1218  unzip KsponSpeech_0{2..5}.zip
+ 1219  unzip KsponSpeech_02.zip
+ 1220  unzip KsponSpeech_03.zip; unzip KsponSpeech_04.zip; unzip KsponSpeech_05.zip
+ 1221  cp KsponSpeech_0*/* ../../KsponSpeech/original/
+ 1222  cp KsponSpeech_0*/*/* ../../KsponSpeech/original/
+ 1223  cp KsponSpeech_01/*/* ../../KsponSpeech/original/
+ 1224  cp KsponSpeech_01/KsponSpeech_0001/* ../../KsponSpeech/original/
+ 1225  cp KsponSpeech_01/KsponSpeech_000*/* ../../KsponSpeech/original/
+ 1226  cp KsponSpeech_01/KsponSpeech_*/* ../../KsponSpeech/original/
+ 1227  cp KsponSpeech_01/KsponSpeech_0*/* ../../KsponSpeech/original/
+ 1228  cp KsponSpeech_01/KsponSpeech_00*/* ../../KsponSpeech/original/
+ 1229  cp KsponSpeech_01/KsponSpeech_0{1..124}/* ../../KsponSpeech/original/
+ 1230  cp KsponSpeech_0{1..5} ../../KsponSpeech/original/
+ 1231  cp -r KsponSpeech_0{1..5} ../../KsponSpeech/original/
+ 1232  cd ../../KsponSpeech/original/
+ 1233  rm KsponSpeech_00*
+ 1234  cd ..
+ 1235  ./preprocess.sh
+ 1236  sudo ./preprocess/
+ 1237  ls -al
+ 1238  chmod preprocess.sh 777
+ 1239  chmod 777 preprocess.sh
+ 1240  ls -al
+ 1241  ./preprocess.sh
+ 1242  conda activate ysher_kochat
+ 1243  ./preprocess.sh
+ 1244  cd ..
+ 1245  ls
+ 1246  ls -al bin/
+ 1247  chmod 777 bin
+ 1248  ls -al bin/
+ 1249  chmod 755 bin/*.py
+ 1250  ls -al bin/
+ 1251  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= ~/Storage/chatbot/STT/kospeech/dataset/kspon/transcripts.txt
+ 1252  python3 ./bin/main.py model=ds2 train=ds2_train
+ 1253  ls -al bin/
+ 1254  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= ~/Storage/chatbot/STT/kospeech/dataset/kspon/
+ 1255  cp -r ./kospeech/ ./bin/kospeech/
+ 1256  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= ~/Storage/chatbot/STT/kospeech/dataset/kspon/
+ 1257  conda install -c anaconda astropy
+ 1258  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= ~/Storage/chatbot/STT/kospeech/dataset/kspon/
+ 1259  conda install -c conda-forge python-levenshtein
+ 1260  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= ~/Storage/chatbot/STT/kospeech/dataset/kspon/
+ 1261  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= ~/Storage/chatbot/STT/kospeech/dataset/kspon
+ 1262  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path=~/Storage/chatbot/STT/kospeech/dataset/kspon
+ 1263  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= ~/Storage/chatbot/STT/kospeech/dataset/kspon
+ 1264  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= Storage/chatbot/STT/kospeech/dataset/kspon
+ 1265  python3 ./bin/main.py model=ds2 train=ds2_train
+ 1266  nvidia-smi
+ 1267  python3 ./bin/main.py model=ds2 train=ds2_train
+ 1268  python ./bin/main.py model=ds2 train=ds2_train
+ 1269  conda list
+ 1270  python -m pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+ 1271  conda list
+ 1272  python ./bin/main.py model=ds2 train=ds2_train
+ 1273  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= Storage/chatbot/STT/kospeech/dataset/kspon/KsponSpeech/original
+ 1274  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= Storage/chatbot/STT/kospeech/dataset/kspon/KsponSpeech/original/
+ 1275  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= dataset/kspon/KsponSpeech/original/
+ 1276  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path= KsponSpeech/original/
+ 1277  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path=KsponSpeech/original/
+ 1278  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path=../dataset/kspon/KsponSpeech/original/
+ 1279  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path=dataset/kspon/KsponSpeech/original/
+ 1280  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path=~/Storage/chatbot/STT/kospeech/dataset/kspon/KsponSpeech/original/
+ 1281  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path=/ysher/Storage/chatbot/STT/kospeech/dataset/kspon/KsponSpeech/original/
+ 1282  python3 ./bin/main.py model=ds2 train=ds2_train train.dataset_path=/home/ysher/Storage/chatbot/STT/kospeech/dataset/kspon/KsponSpeech/original/
+ 1283  pwd
+ 1284  cd ../../data
+ 1285  ls
+ 1286  cd JYLIM/1.phone_cancer/1-3TEXT_origin/
+ 1287  ls
+ 1288  cd ..
+ 1289  cd //
+ 1290  cd /data/JYLIM/
+ 1291  cd ../
+ 1292  cp -r JYLIM/ /home/ysher/Storage/chatbot/call_data/
+ 1293  history
+ 1294  cd /home/ysher/Storage/chatbot/call_data/
+ 1295  iconv
+ 1296  cd 1.phone_cancer/1-4text
+ 1297  file -i 0000352531_20200323121927893_84497_in_5853_1\(수정\).txt
+ 1298  iconv -f ISO-8859-1 -t UTF-8//TRANSLIT 0000352531_20200323121927893_84497_in_5853_1\(수정\).txt 
+ 1299  iconv -f ISO-8859-1 -t UTF-8//TRANSLIT 0000352531_20200323121927893_84497_in_5853_1\(수정\).txt -o 00000000352531_20200323121927893_84497_in_5853_1\(수정\).txt
+ 1300  iconv -f ISO-8859-1 -t UTF-8//TRANSLIT 0000352531_20200323121927893_84497_in_5853_1\(수정\).txt 
+ 1301  nvidia-smi
+ 1302  cd Share/d/py_script/
+ 1303  cp -r opinion_classification_project_v1 opinion_classification_project_v1_api
+ 1304  htop
+ 1305  curl http://localhost:3000/api/sayHello
+ 1306  $ curl http://localhost:3000/api/sayHello -X POST -H "Content-type: application/json" -d '{"key1": "value1", "key2": "value2"}'
+ 1307  // result
+ 1308  {"version":"2.0","template":{"outputs":[{"simpleText":{"text":"hello I'm Ryan"}}]}
+ 1309  cat /etc/host
+ 1310  cat /etc/hosts
+ 1311  conda activate ysh_test3
+ 1312  conda activate ysher_test3
+ 1313  nvm
+ 1314  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh 
+ 1315  nvm
+ 1316  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+ 1317  nvm
+ 1318  wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh 
+ 1319  nvm_echo
+ 1320  nvm_install_node
+ 1321  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.38.0/install.sh | bash
+ 1322  nvm use system
+ 1323  npm uninstall -g a_module
+ 1324  nvm
+ 1325  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+ 1326  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+ 1327  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+ 1328  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+ 1329  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")"
+ 1330  [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh" # This loads nvm
+ 1331  NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")" [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+ 1332  export NVM_DIR="$([ -z "${XDG_CONFIG_HOME-}" ] && printf %s "${HOME}/.nvm" || printf %s "${XDG_CONFIG_HOME}/nvm")" [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"
+ 1333  source ~/.bashrc
+ 1334  conda activate ysher_test3
+ 1335  nvm
+ 1336  nvm install --lts
+ 1337  node -V
+ 1338  node -v
+ 1339  mkdir skill-server-example
+ 1340  cd skill-server-example/
+ 1341  npm init
+ 1342  npm i --save express
+ 1343  cat package.json 
+ 1344  npm i --save morgan body-parser
+ 1345  touch index.js
+ 1346  vi index.js
+ 1347  ps
+ 1348  jobs
+ 1349  fg 1
+ 1350  vi index.js
+ 1351  node index.js
+ 1352  cp -r ~/Storage/ysher_nlp_study/emotion_classification/ ~/Storage/python_deeplearning_project/
+ 1353  rm -r ~/Storage/python_deeplearning_project/
+ 1354  cp -r ~/Storage/ysher_nlp_study/emotion_classification/ ~/Storage/python_deeplearning_project/
+ 1355  cd Storage/ysher_nlp_study/연대코드
+ 1356  cd ..
+ 1357  cp -r 연대코드/intestine/ emotion_classification/notebooks/electra/
+ 1358  s
+ 1359  cd Share/d/py_script/
+ 1360  cp -r opinion_classification_project_v1/ opinion_classification_project_v1_thyroid/
+ 1361  conda activate ysher_mecab
+ 1362  conda install -c conda-forge langdetect
+ 1363  conda install -c conda-forge fasttext
+ 1364  conda env list
+ 1365  sudo conda install -c conda-forge langdetect
+ 1366  conda deactivate
+ 1367  conda activate ysher_pororo
+ 1368  sudo conda install -c conda-forge langdetect
+ 1369  conda install -c conda-forge langdetect
+ 1370  conda install -c conda-forge fasttext
+ 1371  sd
+ 1372  conda install -c conda-forge fasttext
+ 1373  conda list
+ 1374  d
+ 1375  conda list
+ 1376  pip list
+ 1377  python -m pip install fasttext
+ 1378  python
+ 1379  cd Storage/ysher_nlp_study/emotion_classification/notebooks/electra/
+ 1380  wget https://dl.fbaipublicfiles.com/fasttext/supervised-models/lid.176.ftz
+ 1381  conda install sklearn
+ 1382  conda install -y -c anaconda scikit-learn
+ 1383  conda update pororo
+ 1384  conda list
+ 1385  pip upgrade pororo
+ 1386  pip update pororo
+ 1387  pip install --upgrade pororo
+ 1388  pip update
+ 1389  pip upgrade
+ 1390  pip install --upgrade pip
+ 1391  conda install -c conda-forge hydra-core
+ 1392  conda install -c conda-forge googletrans
+ 1393  conda install -c conda-forge googletrans -y
+ 1394  conda env list
+ 1395  cd ~/Share/d/py_script/opinion_classification_project_v1
+ 1396  python3 main.py --use_gpu --strat_exam_date 20201124 --end_exam_date 20201124
+ 1397  conda activate yonsei_v1
+ 1398  python3 main.py --use_gpu --strat_exam_date 20201124 --end_exam_date 20201124
+ 1399  conda install numba
+ 1400  python3 main.py --use_gpu --strat_exam_date 20201124 --end_exam_date 20201124
+ 1401  conda deactivate
+ 1402  conda activate ysher_yonsei
+ 1403  python3 main.py --use_gpu --strat_exam_date 20201124 --end_exam_date 20201124
+ 1404  python3 main.py --use_gpu --start_exam_date 20201124 --end_exam_date 20201124
+ 1405  conda deactivate
+ 1406  conda activate ysher_nlp_study
+ 1407  conda install paramiko select
+ 1408  conda install paramiko
+ 1409  conda reinstall paramiko
+ 1410  conda install paramiko=2.0
+ 1411  conda list
+ 1412  conda search paramiko
+ 1413  conda install paramiko=2.4.0
+ 1414  conda install paramiko=2.6.0
+ 1415  conda deactivate
+ 1416  conda activate ysher_yonsei
+ 1417  python3 main.py --use_gpu --start_exam_date 20201123 --end_exam_date 20201124
+ 1418  nvidia-smi
+ 1419  cd Storage/study/
+ 1420  git init
+ 1421  git config --global user.name "ysher"
+ 1422  git config --global user.email "life_hyu@namer.com"
+ 1423  git status
+ 1424  git add -A
+ 1425  dit status
+ 1426  git status
+ 1427  git commit -m "pytorch project ch3"
+ 1428  git log
+ 1429  git remote
+ 1430  git remote add Study https://github.com/YoonseongHer/Study.git
+ 1431  git push -u origin master
+ 1432  git remote add Study https://github.com/YoonseongHer/Study.git
+ 1433  git push -u origin master
+ 1434  git push -u Study master
+ 1435  cd pytorch\ preject/data
+ 1436  unzip dataset.zip
+ 1437  nvidia-smi
+ 1438  ㅣㄴ
+ 1439  LS
+ 1440  ls
+ 1441  cd ..
+ 1442  ls
+ 1443  rm -r splitted
+ 1444  git status
+ 1445  git add 4\ 작물잎\ 질병\ 분류.ipynb data
+ 1446  git add 4\ 작물잎\ 질병\ 분류.ipynb
+ 1447  git status
+ 1448  git commit -m "4단원 작물 잎 질병 분류(이미지)"
+ 1449  git status
+ 1450  git push origin master
+ 1451  git push ysher master
+ 1452  git push origin ysher
+ 1453  history
+ 1454  history | grep git
+ 1455  git push -u Study master
+ 1456  git add code
+ 1457  git status
+ 1458  git commit -m "3,4단원"
+ 1459  git push Study master
+ 1460  clear
+ 1461  cd ~
+ 1462  cd Storage/git_repo/
+ 1463  git add test.py
+ 1464  git state
+ 1465  git status
+ 1466  git commmdit -m "test"
+ 1467  git commmit -m "test"
+ 1468  git commit -m "test"
+ 1469  git push origin master
+ 1470  git push dev_ysher master
+ 1471  git push origin dev_ysher
+ 1472  sudo git push origin dev_ysher
+ 1473  git push origin dev_ysher
+ 1474  git push main dev_ysher
+ 1475  git push master dev_ysher
+ 1476  cd Storage/study/pytorch\ preject/
+ 1477  wget https://chromedriver.storage.googleapis.com/94.0.4606.41/chromedriver_linux64.zip
+ 1478  unzip chromedriver_linux64.zip 
+ 1479  conda activate ysher_yonsei
+ 1480  conda install selenium
+ 1481  wget https://chromedriver.storage.googleapis.com/95.0.4638.54/chromedriver_linux64.zip
+ 1482  unzip chromedriver_linux64.zip 
+ 1483  apt-get chrome
+ 1484  conda search crome
+ 1485  conda search chrome
+ 1486  apt-get Chrom
+ 1487  apt-get Chrome
+ 1488  cd ~
+ 1489  ls
+ 1490  cd ..
+ 1491  ls
+ 1492  cd ..
+ 1493  ls
+ 1494  pwd
+ 1495  cd ..
+ 1496  ls
+ 1497  cd ~
+ 1498  conda install torchtext
+ 1499  conda install -c conda-forge -c anaconda torchtext
+ 1500  conda install -c pytorch torchtext
+ 1501  cd Storage/study/
+ 1502  git status
+ 1503  git add code
+ 1504  git add code/
+ 1505  git add pytorch\ preject/code/5.\ 국민청원\ 분류하기.ipynb 
+ 1506  git commit -m "5단원"
+ 1507  git push Study master
+ 1508  git pull Study master
+ 1509  git status
+ 1510  git add pytorch\ preject/code/
+ 1511  git status
+ 1512  git commit -m "5단원"
+ 1513  git push Study master
+ 1514  cd Storage/study/
+ 1515  git status
+ 1516  git add pytorch\ preject/code
+ 1517  git status
+ 1518  git commit -m "5단원"
+ 1519  git push study master
+ 1520  git push Study master
+ 1521  cd data
+ 1522  cd pytorch\ preject/data/
+ 1523  wget https://www.kaggle.com/arnaud58/selfie2anime/download
+ 1524  kaggle datasets download -d arnaud58/selfie2anime
+ 1525  wget https://www.kaggle.com/arnaud58/selfie2anime/download
+ 1526  unzip archive.zip 
+ 1527  nvidia-smi
+ 1528  nvidia-smim
+ 1529  nvidia-smi
+ 1530  conda env list
+ 1531  conda activate kako_gpt
+ 1532  conda activate kakao_gpt
+ 1533  pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+ 1534  python3 -m pip3 install --upgrade pip
+ 1535  python3 -m pip install --upgrade pip
+ 1536  pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+ 1537  python -m pip3 install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+ 1538  python -m pip install torch==1.10.0+cu113 torchvision==0.11.1+cu113 torchaudio===0.10.0+cu113 -f https://download.pytorch.org/whl/cu113/torch_stable.html
+ 1539  ls
+ 1540  cd ..
+ 1541  ls
+ 1542  ls -al
+ 1543  cd ysher
+ 1544  ls -al
+ 1545  cd .jupyter/
+ 1546  ls
+ 1547  nano jupyter_notebook_config.json 
+ 1548  nano jupyter_nbconvert_config.json 
+ 1549  cd ../ysher
+ 1550  la
+ 1551  ls
+ 1552  ls -al
+ 1553  du ./*
+ 1554  du -sh ./*
+ 1555  du -sh .cache
+ 1556  cd .cache/
+ 1557  ls
+ 1558  ls -ak
+ 1559  la
+ 1560  ls -al
+ 1561  du -sh *
+ 1562  cd huggingface/
+ 1563  ls
+ 1564  ls -al
+ 1565  du -sh *
+ 1566  cd transformers/
+ 1567  ls
+ 1568  du -sh *
+ 1569  ls
+ 1570  ls -al
+ 1571  cd ../..
+ 1572  du -sh *
+ 1573  conda install -c conda-forge flask
+ 1574  cd ~
+ 1575  conda activate ysher_yonsi
+ 1576  conda activate ysher_yonsei
+ 1577  conda install -c conda-forge flask
+ 1578  conda update -n base conda
+ 1579  cd Storage/study/flask/
+ 1580  python3 app.py
+ 1581  python3 app_2.py
+ 1582  sudo lsof -PiTCP -sTCP:LISTEN
+ 1583  python3 app_2.py
+ 1584  cd ~
+ 1585  cd Storage/study/
+ 1586  wget https://chromedriver.storage.googleapis.com/97.0.4692.20/chromedriver_linux64.zip
+ 1587  unzip chromedriver_linux64.zip 
+ 1588  git status
+ 1589  git add code
+ 1590  ls
+ 1591  git add pytorch\ preject/code
+ 1592  git commit -m "7장"
+ 1593  git push Study master
+ 1594  cd ~
+ 1595  python3 app.py
+ 1596  conda activate ysher_yonsei
+ 1597  cd Storage/study/flask/
+ 1598  python3 app.py
+ 1599  python3 app_2.py
+ 1600  python3 get.py
+ 1601  python3 app_2.py 
+ 1602  conda activate ysher_yonsei & cd Storage/study/flask/
+ 1603  conda activate ysher_yonsei
+ 1604  python3 get.py
+ 1605  conda activate ysher_yonsei & cd Storage/study/flask/
+ 1606  conda activate ysher_yonsei
+ 1607  python3 get.py
+ 1608  clear
+ 1609  python3 get.py
+ 1610  python3 test.py
+ 1611  conda activate ysher_yonsei
+ 1612  python3 test.py
+ 1613  python -m pip install "Flask[async]"
+ 1614  python3 test.py
+ 1615  conda activate ysher_yonsei & cd Storage/study/flask/
+ 1616  conda activate ysher_yonsei
+ 1617  python3 get.py
+ 1618  cd Storage/study/
+ 1619  git status
+ 1620  git add code
+ 1621  ls
+ 1622  git add flask/code
+ 1623  git commit -m "flask_01"
+ 1624  git push Study master
+ 1625  conda activate ysher_yonsei
+ 1626  cd Storage/study/flask/
+ 1627  ls
+ 1628  python3 app_2.py
+ 1629  conda activate kakao_gpt
+ 1630  python -m pip install librosa
+ 1631  conda activate ysher_yonsei
+ 1632  nvidia-smi
+ 1633  conda env list
+ 1634  conda activate ysher_pororo
+ 1635  conda install -c scrapinghub scrapy
+ 1636  cd Storage/study/scrapy/
+ 1637  scrapy startporject naver
+ 1638  scrapy startproject naver
+ 1639  ls
+ 1640  cd naver
+ 1641  ls
+ 1642  conda activate ysher_yonsie
+ 1643  conda activate ysher_yonsei
+ 1644  cd Share/d/py_script/opinion_classification_project_v1
+ 1645  python3 main --help
+ 1646  python3 main.py --help
+ 1647  python3 main.py --use_gpu --start_exam_date 20200000 --end_exam_date 20210000
+ 1648  cd ~
+ 1649  cd Storage/study/flask/code/
+ 1650  python3 app.py
+ 1651  nvidi-smi
+ 1652  nvidia-smi
+ 1653  conda activate ysher_yonsei
+ 1654  conda install dill
+ 1655  nvidia-smi
+ 1656  conda deactivate
+ 1657  conda activate ysher_test3
+ 1658  conda install -c anaconda sqlalchemy
+ 1659  conda install pymysql
+ 1660  conda install pymssql
+ 1661  conda deactivate
+ 1662  conda activate ysher_yonsei
+ 1663  cd Storage/study/scrapy/naver/naver/spiders/
+ 1664  scrapy crawl spider
+ 1665  scrape crawl spider
+ 1666  scrapy crawl spider
+ 1667  scapy crawl spider
+ 1668  genspider
+ 1669  scrapy genspider naver auto.kin.naver.com
+ 1670  history
+ 1671  history | grep scrapy
+ 1672  conda deactivate
+ 1673  conda activate ysher_pororo
+ 1674  scapy crawl spider
+ 1675  scrapy crawl spider
+ 1676  scrapy genspider naver_spider auto.kin.naver.com
+ 1677  scrapy crawl naver_spider
+ 1678  conda install protego
+ 1679  scrapy crawl naver_spider
+ 1680  claer
+ 1681  clear
+ 1682  scrapy crawl naver_spider
+ 1683  clear
+ 1684  scrapy crawl naver_spider
+ 1685  scrapy shell
+ 1686  scrapy crawl naver_spider
+ 1687  scrapy shell
+ 1688  scrapy crawl naver_spider
+ 1689  cleat
+ 1690  clear
+ 1691  scrapy crawl naver_spider
+ 1692  scrapy shell
+ 1693  scrapy crawl naver_spider
+ 1694  clear
+ 1695  scrapy crawl naver_spider
+ 1696  scrapy crawl naver_spider2
+ 1697  scrapy crawl naver_spider
+ 1698  clear
+ 1699  scrapy crawl naver_spider
+ 1700  scrapy crawl naver_spider2
+ 1701  scrapy crawl naver_spider
+ 1702  scrapy runspider naver_spider.py -o example.csv -t csv
+ 1703  scrapy runspider -o example.csv -t csv
+ 1704  scrapy runspider -o example.csv
+ 1705  scrapy runspider example.csv
+ 1706  scrapy runspider naver_spider.py -o example.csv
+ 1707  scrapy runspider naver_spider.py -o example.csv
+ 1708  scrapy crawl naver_spider
+ 1709  python3 app.py
+ 1710  ls
+ 1711  cd Storage/study/
+ 1712  ls
+ 1713  cd ..
+ 1714  cd gittest/
+ 1715  ls -al
+ 1716  lsb_release
+ 1717  lsb_release -a
+ 1718  sudo apt update
+ 1719  cd Storage/gittest/
+ 1720  git remote
+ 1721  git pull origin master
+ 1722  cd ~
+ 1723  cd Storage
+ 1724  mkdir aws_codecommit_test
+ 1725  cd aws_codecommit_test/
+ 1726  conda create --name ysher_aws python=3.7.10
+ 1727  conda activate ysher_aws
+ 1728  pip install git-remote-codecommit
+ 1729  pip install awscli
+ 1730  aws configure
+ 1731  git clone codecommit::ap-northeast-2://TEST
+ 1732  git status
+ 1733  git init
+ 1734  git status
+ 1735  git config --local user.name "dev_ysher"
+ 1736  git config --local user.email "ysher@aimmed.com"
+ 1737  aws configue --preofile MyCrossAccountAccessProfile
+ 1738  aws configure --preofile MyCrossAccountAccessProfile
+ 1739  aws configure --profile MyCrossAccountAccessProfile
+ 1740  git clone codecommit::ap-northeast-2://TEST
+ 1741  notepad .aws/config
+ 1742  nano .aws/config
+ 1743  ls -al .aws
+ 1744  nano ~/.aws/config
+ 1745  git clone codecommit::ap-northeast-2://TEST
+ 1746  cd Storage/aws_codecommit_test/
+ 1747  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1748  conda activate ysher_aws
+ 1749  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1750  nano ~/.aws/config
+ 1751  kill 1
+ 1752  fg 1
+ 1753  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1754  git remote add origin codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1755  git pull origin master
+ 1756  sudo git pull origin master
+ 1757  git pull origin master
+ 1758  conda activate ysher_aws
+ 1759  cd Storage/aws_codecommit_test/
+ 1760  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1761  nano ~/.aws/config
+ 1762  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1763  nano ~/.aws/config
+ 1764  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1765  nano ~/.aws/config
+ 1766  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1767  nano ~/.aws/config
+ 1768  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1769  git config --global credential.helper "aws configure --profile MyCrossAccountAccessProfile codecommit credential-helper $@"
+ 1770  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1771  conda activate ysher_aws
+ 1772  cd Storage/aws_codecommit_test/
+ 1773  git status
+ 1774  ls -al
+ 1775  ls .git
+ 1776  ls -al .git
+ 1777  git config --global credential.UseHttpPath true
+ 1778  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1779  nano ~/.aws/config
+ 1780  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1781  nano ~/.aws/config
+ 1782  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1783  nano ~/.aws/config
+ 1784  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1785  nano ~/.aws/config
+ 1786  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1787  conda activate ysher_aws
+ 1788  cd Storage/aws_codecommit_test/
+ 1789  git status
+ 1790  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1791  nano ~/.aws/config
+ 1792  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/TEST
+ 1793  git clone codecommit::ap-northeast-2://TEST
+ 1794  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1795  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@https://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/TEST
+ 1796  pwd
+ 1797  cd ../TEST
+ 1798  pwd
+ 1799  git status
+ 1800  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@https://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/TEST
+ 1801  nano ~/.aws/config
+ 1802  git remote
+ 1803  git pull origin master
+ 1804  git remote remove origin
+ 1805  nano ~/.aws/config
+ 1806  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1807  nano ~/.aws/credentials 
+ 1808  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST .
+ 1809  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST TEST
+ 1810  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1811  gI Credential Manager
+ 1812  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1813  git clone https://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/TEST
+ 1814  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1815  git clone https://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/TEST
+ 1816  fg 1
+ 1817  git clone https://git-codecommit.ap-northeast-2.amazonaws.com/v1/repos/TEST
+ 1818  git clone codecommit::ap-northeast-2://MyCrossAccountAccessProfile@TEST
+ 1819  nano ~/.aws/config
+ 1820  htop
+ 1821  conda activate ysher_kochat
+ 1822  cd Storage/study/flask/code/
+ 1823  python3 app_2.py
+ 1824  cd Storage/ysher_nlp_study/연대코드/
+ 1825  mkdir sample_script
+ 1826  cp -r ./stomach/ sample_script/stomach/
+ 1827  cp -r ./cervix/ sample_script/cervix/
+ 1828  cp -r ./carotid/ sample_script/carotid/
+ 1829  conda env list
+ 1830  conda remove --name ysher_ocr --all
+ 1831  conda remove --name kakao_gpt --all
+ 1832  cd ..
+ 1833  cd naver
+ 1834  ls
+ 1835  cd ..
+ 1836  cd study/scrapy/naver/
+ 1837  scrapy crawl naver
+ 1838  conda activate ysher_pororo
+ 1839  scrapy crawl naver
+ 1840  scrapy crawl naver_spider
+ 1841  clear
+ 1842  scrapy crawl naver_spider
+ 1843  clear
+ 1844  scrapy crawl naver_spider
+ 1845  clear
+ 1846  scrapy crawl naver_spider
+ 1847  conda activate ysher_pororo
+ 1848  cd Storage/study/scrapy/naver/naver/
+ 1849  scrapy crawl naver_spider
+ 1850  htop
+ 1851  cd Storage/study/machin\ learning/
+ 1852  wget https://raw.githubusercontent.com/YoonseongHer/handson-ml2/master/images/unsupervised_learning/ladybug.png
+ 1853  conda activate ysher_yonsei
+ 1854  conda list | grep h5py
+ 1855  conda uninstall h5py
+ 1856  pip uninstall h5py
+ 1857  conda install h5py=2.10.0
+ 1858  cd Storage/study/
+ 1859  ls
+ 1860  git add machin_learning/9.\ 비지도\ 학습.ipynb 
+ 1861  git status
+ 1862  git add pytorch_preject/
+ 1863  git status
+ 1864  git commit -m 'machin_learning dic crate'
+ 1865  git push origin study
+ 1866  git push study master
+ 1867  git status
+ 1868  git push Study master
+ 1869  kill 1
+ 1870  fg 1
+ 1871  git push study master
+ 1872  git remote
+ 1873  git push Study master
+ 1874  conda env list
+ 1875  git push origin Study
+ 1876  git push Study origin
+ 1877  git push Study master
+ 1878  conda activate ysher_yonsei
+ 1879  conda install mglearn
+ 1880  python -m pip install mglearn
+ 1881  conda deactivate
+ 1882  git add machin_learning/9.\ 비지도\ 학습.ipynb machin_learning/파라머\ 3장\ 비지도.ipynb 
+ 1883  git status
+ 1884  git commit -m "비지도 학습"
+ 1885  git push Study master
+ 1886  conda activate ysher_yonsei
+ 1887  conda uninstall torch
+ 1888  python -m pip install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio==0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+ 1889  conda install -c conda-forge facenet_pytorh
+ 1890  conda install -c conda-forge facenet_pytorch
+ 1891  python -m pip install facenet_pytorch
+ 1892  conda install -c conda-forge dlib
+ 1893  conda install -c conda-forge opencv
+ 1894  du
+ 1895  df
+ 1896  cd /
+ 1897  df
+ 1898  pwd
+ 1899  cd ~
+ 1900  pwd
+ 1901  cd ..
+ 1902  df
+ 1903  df -h
+ 1904  du -9
+ 1905  df .
+ 1906  cd ~
+ 1907  df .
+ 1908  conda activate ysher_yonsei
+ 1909  conda install -c conda-forge opencv
+ 1910  conda install -c conda-forge imutils
+ 1911  conda install -c conda-forge moviepy -y
+ 1912  conda deativate
+ 1913  conda deactivate
+ 1914  cd Storage/study/
+ 1915  git add pytorch\ preject/code/9\ 아이돌\ 무대\ 자동\ 교차편집\ 생성.ipynb 
+ 1916  git commit -m '9장'
+ 1917  git push Study master
+ 1918  conda activate ysher_pororo
+ 1919  cd Storage/study/scrapy/naver/
+ 1920  scrapy crawl naver_spider
+ 1921  clear
+ 1922  scrapy crawl naver_spider
+ 1923  clear
+ 1924  scrapy crawl naver_spider
+ 1925  clear
+ 1926  scrapy crawl naver_spider
+ 1927  scrapy crawl naver_spider && python3 count.py
+ 1928  clear
+ 1929  scrapy crawl naver_spider && python3 count.py
+ 1930  python3 count.py
+ 1931  scrapy crawl naver_spider && python3 count.py
+ 1932  clear
+ 1933  scrapy crawl naver_spider && python3 count.py
+ 1934  clear
+ 1935  scrapy crawl naver_spider && python3 count.py'
+ 1936  scrapy crawl naver_spider && python3 count.py
+ 1937  clear
+ 1938  scrapy crawl naver_spider && python3 count.py
+ 1939  clear
+ 1940  scrapy crawl naver_spider && python3 count.py
+ 1941  scrapy crawl naver_spider2 && python3 count.py
+ 1942  scrapy crawl naver_spider && python3 count.py
+ 1943  python3 count.py
+ 1944  scrapy crawl naver_spider && python3 count.py
+ 1945  python3 count.py
+ 1946  scrapy crawl naver_spider && python3 count.py
+ 1947  python3 count.py
+ 1948  scrapy crawl naver_spider
+ 1949  python3 count.py
+ 1950  scrapy crawl naver_spider
+ 1951  python3 count.py
+ 1952  scrapy crawl naver_spider && python3 count.py
+ 1953  칟ㅁㄱ
+ 1954  clear
+ 1955  scrapy crawl naver_spider && python3 count.py
+ 1956  python3 count.py
+ 1957  scrapy crawl naver_spider && python3 count.py
+ 1958  python3 count.py
+ 1959  pm2 log model_server
+ 1960  cp Storage/python_deeplearning_project/ Share/d/emotion_study/
+ 1961  cp Storage/python_deeplearning_project/ Share/d/emotion_study/ -r
+ 1962  cp Storage/study/scrapy/naver/depressed_2002_2022_우울\|괴롭\|절망\|공허\|좌절\|서럽\|서운한\|울적\|외롭\|외로운\|처량\|처참\|허전.csv Share/d/emotion_study/data/raw/depressed_2002_2022_naver.csv
+ 1963  cd Storage/study/ML_pipeline/
+ 1964  git clone https://github.com/chris-chris/building-machine-learning-pipelines.git
+ 1965  conda create --name ysher_mlpipe python==3.7
+ 1966  conda activate ysher_mlpipe
+ 1967  conda install ipykernel
+ 1968  python -m ipykernel install --user --name ysher_mlpipe --diplay-name ysher_mlpipe
+ 1969  python -m ipykernel install --user --name ysher_mlpipe --display-name ysher_mlpipe
+ 1970  conda install unmpy=1.19.2 pandas
+ 1971  conda install numpy=1.19.2 pandas
+ 1972  python -m pip install tensorflow-gpu==2.5
+ 1973  python -m pip install tensorflow-addons
+ 1974  conda install matplotlib
+ 1975  python -m pip install ipywidgets
+ 1976  python -m pip install tfx
+ 1977  python -m pip install tfx==1.4
+ 1978  python -m pip install tfx==1.3
+ 1979  python -m pip install tfx==1.2
+ 1980  pip uninstall tensorflow
+ 1981  python -m pip install tensorflow-gpu==2.5
+ 1982  python -m pip install tfx==1.2
+ 1983  conda deactivate
+ 1984  conda remove --name ysher_mlpipe -all
+ 1985  conda remove --name ysher_mlpipe --all
+ 1986  jupyter kernelspec uninstall 가상환경이름
+ 1987  jupyter kernelspec uninstall ysher_mlpipe
+ 1988  conda create --name ysher_mlpipe python=3.7
+ 1989  conda activate ysher_mlpipe
+ 1990  conda install numpy=1.19.2 pandas matplotlib seaborn ipykernel -y
+ 1991  python -m ipykernel install --user --name ysher_mlpipe --display-name ysher_mlpipe
+ 1992  python -m pip install tfx=1.2
+ 1993  python -m pip install tfx==1.2
+ 1994  python -m pip install tensorflow-gpu==2.5
+ 1995  nvida-smi
+ 1996  nvidia-smi
+ 1997  kill -9 38576
+ 1998  nvidia-smi
+ 1999  conda create ysher_chatbot python==3.7
+ 2000  conda create --user ysher_chatbot python==3.7
+ 2001  conda create --name ysher_chatbot python==3.7
+ 2002  conda activate ysher_chatbot
+ 2003  conda install ipykernel
+ 2004  python -m ipykernel install --user --name ysher_chatbot --display-name ysher_chatbot
+ 2005  conda install -c conda-forge spacy
+ 2006  python3 -m spacy download ko
+ 2007  python3 -m spacy download en
+ 2008  conda list
+ 2009  python -m spacy download en_core_web_sm
+ 2010  conda update python
+ 2011  python -m spacy download en_core_web_sm
+ 2012  python -m spacy download ko
+ 2013  python -m pip install rasa-nlu==0.13.2
+ 2014  conda install -c conda-forge skzope.interface-5.4.0
+ 2015  conda install -c anaconda scikit-learn sklearn-crfsuite
+ 2016  conda install -c anaconda scikit-learn
+ 2017  conda install -c conda-forge sklearn-crfsuite
+ 2018  conda reinstall spacy=2.0.11
+ 2019  conda remove spacy
+ 2020  python -m pip install spacy=2.0.11
+ 2021  python -m pip install spacy==2.0.11
+ 2022  conda install requests
+ 2023  conda install zipp -y
+ 2024  conda install -y typing_extensions
+ 2025  python -m spacy download xx
+ 2026  python -m spacy download en
+ 2027  nano ~/.conda/envs/ysher_chatbot/lib/python3.7/site-packages/rasa_nlu/extractors/crf_entity_extractor.py
+ 2028  conda install -y packaging
+ 2029  conda deactivate
+ 2030  conda create --name ysher_chatbot2 python==3.6
+ 2031  conda create --name ysher_chatbot2 python=3.6
+ 2032  conda activate ysher_chatbot2
+ 2033  python -m pip install rasa-nlp spacy
+ 2034  python -m pip install rasa-nlu spacy
+ 2035  conda install ipykernel
+ 2036  python -m ipykernel install --user --name ysher_chatbot2 --display-name ysher_chatbot2
+ 2037  pip install pyparsing==2.4.7
+ 2038  pip install --upgrade witwidget -q
+ 2039  pip install pyparsing==2.4.2
+ 2040  conda install -c conda-forge sklearn_crfsuite
+ 2041  conda install -c conda-forge sklearn-crfsuite
+ 2042  python -m spacy download xx
+ 2043  conda deactivate
+ 2044  conda create --name ysher_chatbot3 python==3.7
+ 2045  conda activate ysher_chatbot3
+ 2046  conda install ipykernel
+ 2047  python -m ipykernel install --user --name ysher_chatbot3 --display-name ysher_chatbot3
+ 2048  python -m pip install spacy==2.0.11
+ 2049  pip install spacy==2.0.11
+ 2050  pip install rasa-nlu==0.13.2
+ 2051  conda list
+ 2052  pip install rasa-nlu==0.13.2
+ 2053  pip install python==3.6
+ 2054  jupyter kernelspec uninstall ysher_chatbot2
+ 2055  jupyter kernelspec uninstall ysher_chatbot3
+ 2056  conda remove --name ysher_chatbot2 --all
+ 2057  conda remove --name ysher_chatbot3 --all
+ 2058  conda deactivate
+ 2059  conda remove --name ysher_chatbot3 --all
+ 2060  conda crate --name ysher_chatbot2 python==3.6
+ 2061  conda create --name ysher_chatbot2 python==3.6
+ 2062  conda create --name ysher_chatbot2 python=3.6
+ 2063  conda activate ysher_chatbot2
+ 2064  conda install ipykernel
+ 2065  pip install spacy==2.0.11
+ 2066  pip install rasa-nlu==0.13.2
+ 2067  python -m ipykernel install --user --name ysher_chatbot2 --display-name ysher_chatbot2
+ 2068  conda install -c conda-forge numpy=1.19.2
+ 2069  conda install -c conda-forge simplejson
+ 2070  conda install -c conda-forge -y chardet
+ 2071  conda install -c conda-forge -y jsonschema
+ 2072  conda install -c conda-forge -y sklearn
+ 2073  conda install -c anaconda scikit-learn
+ 2074  conda install -c anaconda scikit-learn=0.8
+ 2075  conda install -c anaconda scikit-learn=0.9
+ 2076  conda install -c anaconda scikit-learn=1.0.0
+ 2077  conda install -c anaconda scikit-learn
+ 2078  conda install -c conda-forge sklearn-crfsuite
+ 2079  python -m spacy install xx
+ 2080  python -m spacy download xx
+ 2081  python -m spacy download en
+ 2082  conda remove sklearn
+ 2083  conda list
+ 2084  conda remove scikit-learn
+ 2085  conda install -c anaconda scikit-learn=0.19
+ 2086  conda install -c conda-forge packaging
+ 2087  conda remove tensorflow
+ 2088  conda list
+ 2089  pip list
+ 2090  pip remove tensorflow
+ 2091  pip reinstall tensorflow==1.9
+ 2092  pip uninstall tensorflow
+ 2093  pip install tensorflow==1.9
+ 2094  history > history.txt

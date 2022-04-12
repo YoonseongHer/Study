@@ -1,0 +1,274 @@
+﻿{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "text": "안녕하세요",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "이상지질혈증에 대한 정보를 알려주세요",
+        "intent": "lipid_info",
+        "entities": []
+      },
+      {
+        "text": "식단에 대한 정보를 알려주세요",
+        "intent": "lipid_diet",
+        "entities": []
+      },
+      {
+        "text": "운동정보를 알려주세요",
+        "intent": "lipid_excercise",
+        "entities": []
+      },
+      {
+        "text": "저 이상지질혈증인가요?",
+        "intent": "lipid_diagnosis",
+        "entities": []
+      },
+      {
+        "text": "안녕",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "안녕하십니까",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "하이",
+        "intent": "greet",
+        "entities": []
+      },
+      {
+        "text": "이상지질혈증인지 알고싶어요",
+        "intent": "lipid_diagnosis",
+        "entities": []
+      },
+      {
+        "text": "고지혈증인지 알 수 있을까요?",
+        "intent": "lipid_diagnosis",
+        "entities": []
+      },
+      {
+        "text": "중성지방 수치가 170 인데 어떤가요?",
+        "intent": "lipid_diagnosis",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "170",
+            "entity": "tg_num"
+          }
+        ]
+      },
+      {
+        "text": "중성지방 90",
+        "intent": "tg_intent",
+        "entities": [
+          {
+            "start": 5,
+            "end": 7,
+            "value": "90",
+            "entity": "tg_num"
+          }
+        ]
+      },
+      {
+        "text": "210",
+        "intent": "tg_intent",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "210",
+            "entity": "tg_num"
+          }
+        ]
+      },
+      {
+        "text": "중성지방 수치가 130인데 이상지질혈증 인가요?",
+        "intent": "lipid_diagnosis",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "130",
+            "entity": "tg_num"
+          }
+        ]
+      },
+      {
+        "text": "200 중성지방 수치입니다. 고지혈증 인가요?",
+        "intent": "lipid_diagnosis",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "200",
+            "entity": "tg_num"
+          }
+        ]
+      },
+      {
+        "text": "고지혈증인지 알고 싶습니다.",
+        "intent": "lipid_diagnosis",
+        "entities": []
+      },
+      {
+        "text": "고지혈증의 기준이 뭐야?",
+        "intent": "lipid_info",
+        "entities": []
+      },
+      {
+        "text": "이상지질 혈증인지 알려줘",
+        "intent": "lipid_diagnosis",
+        "entities": []
+      },
+      {
+        "text": "이상지질혈증인지 알고 싶어",
+        "intent": "lipid_diagnosis",
+        "entities": []
+      },
+      {
+        "text": "어떤 음식을 먹어야 할까요?",
+        "intent": "lipid_diet",
+        "entities": []
+      },
+      {
+        "text": "어떤 음식이 고지혈증 환자에게 좋은가요?",
+        "intent": "lipid_diet",
+        "entities": []
+      },
+      {
+        "text": "어떤 음식을 조심해야 하나요?",
+        "intent": "lipid_diet",
+        "entities": []
+      },
+      {
+        "text": "식사를 어떻게해야 할까요?",
+        "intent": "lipid_diet",
+        "entities": []
+      },
+      {
+        "text": "식단 알려주세요",
+        "intent": "lipid_diet",
+        "entities": []
+      },
+      {
+        "text": "식이조절법을 알려주세요",
+        "intent": "lipid_diet",
+        "entities": []
+      },
+      {
+        "text": "식단관리 하고싶어요",
+        "intent": "lipid_diet",
+        "entities": []
+      },
+      {
+        "text": "식단",
+        "intent": "lipid_diet",
+        "entities": []
+      },
+      {
+        "text": "운동",
+        "intent": "lipid_excercise",
+        "entities": []
+      },
+      {
+        "text": "어떤 운동이 좋은가요?",
+        "intent": "lipid_excercise",
+        "entities": []
+      },
+      {
+        "text": "운동을 어떻게 해야 하나요?",
+        "intent": "lipid_excercise",
+        "entities": []
+      },
+      {
+        "text": "어떤 운동이 도움이 되나요?",
+        "intent": "lipid_excercise",
+        "entities": []
+      },
+      {
+        "text": "격한 운동을 해도 될까요?",
+        "intent": "lipid_excercise",
+        "entities": []
+      },
+      {
+        "text": "이상지질혈증이란?",
+        "intent": "lipid_info",
+        "entities": []
+      },
+      {
+        "text": "고지혈증이 무엇인가요?",
+        "intent": "lipid_info",
+        "entities": []
+      },
+      {
+        "text": "이상지질혈증은 어떤 병인가요?",
+        "intent": "lipid_info",
+        "entities": []
+      },
+      {
+        "text": "고지혈증의 정의",
+        "intent": "lipid_info",
+        "entities": []
+      },
+      {
+        "text": "이상지질혈증에 대한 정보",
+        "intent": "lipid_info",
+        "entities": []
+      },
+      {
+        "text": "158",
+        "intent": "tg_intent",
+        "entities": [
+          {
+            "start": 0,
+            "end": 3,
+            "value": "158",
+            "entity": "tg_num"
+          }
+        ]
+      },
+      {
+        "text": "중성지방 140",
+        "intent": "tg_intent",
+        "entities": [
+          {
+            "start": 5,
+            "end": 8,
+            "value": "140",
+            "entity": "tg_num"
+          }
+        ]
+      },
+      {
+        "text": "중성지방 수치가 125가 나왔습니다. 높은 수치 인가요?",
+        "intent": "lipid_diagnosis",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "125",
+            "entity": "tg_num"
+          }
+        ]
+      },
+      {
+        "text": "중성지방 수치가 300인데 어떤가요?",
+        "intent": "lipid_diagnosis",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "300",
+            "entity": "tg_num"
+          }
+        ]
+      }
+    ]
+  }
+}

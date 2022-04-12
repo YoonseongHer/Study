@@ -38,10 +38,14 @@ class SubscribeUser(Action):
         
         subscribe = tracker.get_slot('subscribe')
         
+        print(subscribe)
+        
         if subscribe == "True":
-            response = "You're successfully subscribed"
-        if subscribe == "False":
-            response = "You're successfully unsubscribed"
+            response_ = "You're successfully subscribed"
+        elif subscribe == "False":
+            response_ = "You're successfully unsubscribed"
+        else :
+            response_ = "&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&"
             
-        dispatcher.utter_message(response)
+        dispatcher.utter_message(response_)
         return [SlotSet("subscribe", subscribe)]

@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Raid_data/home_storage/ysher_d/study/python_chatbot/./models/nlu/default/horoscopebot/intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "/Raid_data/home_storage/ysher_d/study/python_chatbot/./models/nlu/default/horoscopebot/intent_classifier_tensorflow_embedding.ckpt"
